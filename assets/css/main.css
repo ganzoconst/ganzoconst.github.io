@@ -3880,3 +3880,13 @@ input, select, textarea {
 		}
 
 	}
+
+#logo {
+	width: 100%;
+	height: auto;
+	max-height: 500px;
+	align-content: center;
+	object-fit: contain;
+	overflow: hidden;
+	
+}
