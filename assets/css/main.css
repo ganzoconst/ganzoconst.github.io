@@ -163,7 +163,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #4d3394;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 		font-size: 1rem;
 		font-weight: 300;
 		letter-spacing: 0.0375em;
